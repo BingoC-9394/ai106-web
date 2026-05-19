@@ -1,4 +1,4 @@
-use client;
+"use client";
 
 export default function Home() {
   // Mock data for the beagle photo gallery - replace src paths with your actual images
